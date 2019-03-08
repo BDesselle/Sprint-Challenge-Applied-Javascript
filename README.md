@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+**The DOM is the Document Object Model. It is used as a bridge or API between the browser and our code.**
+
 2. What is an event?
+
+**An event is something that happens within the browser such as a mouse click or key press. We can listen for it to trigger our own chain of events.**
 
 3. What is an event listener?
 
+**An event listener is a piece of code that waits for a specific event to happen, and fires a callback in response to the event.**
+
 4. Why would we convert a NodeList into an Array?
 
+**We gain access to all of the Array methods, such as map, reduce and filter.**
+
 5. What is a component?
+
+**A component is a reusable piece of code that can be utilized to build as many instances of something as we want.**
 
 ### Git Set up
 
@@ -68,3 +78,5 @@ Your stretch challenge is to write the functionality of a `Carousel` component. 
 * [ ] Create an 'infinite loop' carousel. In which as long as you click on an arrow, the array of images will loop over itself.
 
 * [ ] If you have finished the above, play around with the styling on all the components, and understand how each is built.
+
+**Messed up the PR**
